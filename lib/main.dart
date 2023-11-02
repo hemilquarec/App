@@ -3,8 +3,8 @@ import 'package:webview_flutter/webview_flutter.dart';
 
 void main() => runApp(MyApp());
 
-class MyApp extends StatelessWidget {
-  @override
+class MApp extends StatelessWidget {
+  
   Widget build(BuildContext context) {
     return MaterialApp(
       home: WebViewExample(),
